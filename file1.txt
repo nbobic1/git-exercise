@@ -1,2 +1,7 @@
 Welcome! Let's learn.
+<<<<<<< HEAD
 Edited by Aid.
+=======
+Dodatak
+Dodatak na main branch
+>>>>>>> f71f7b71ab9d1d7e9ba9e83943c8d12ef7e93234
